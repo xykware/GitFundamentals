@@ -11,3 +11,4 @@ Here is a growing collection of resources and helpful commands to kknow when wor
 - [git commit](./Commands/Commit.md)
 - [git remote](./Commands/Remote.md)
 - [git push](./commands/Push.md)
+- [git pull](./commands/Pull.md)
